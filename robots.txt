@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://kaya88-gpztbjr07-jarot5228-sketchs-projects.vercel.app/sitemap.xml
+Sitemap: https://kaya88-bpxzr3w5h-jarot5228-sketchs-projects.vercel.app/sitemap.xml
