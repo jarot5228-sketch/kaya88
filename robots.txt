@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kaya88-sigma.vercel.app/sitemap.txt
